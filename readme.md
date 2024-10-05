@@ -1,8 +1,8 @@
 # Docker Revese Proxy
 
-Quick setup tool for creating a docker proxy with access to host
-Configure `nginx.conf` as you require
-Create certs using `create_certs.sh` script
+Quick setup tool for creating a docker proxy with access to host<br>
+Configure `nginx.conf` as you require<br>
+Create certs using `create_certs.sh` script<br>
 
 ```
 Scripts:
